@@ -1,0 +1,129 @@
+HASTE DOWNLOADER - SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 Neel Sapariya. All rights reserved.
+
+Please read this agreement carefully. By installing or using Haste Downloader
+(the "Software"), you agree to be bound by its terms. If you do not agree, do
+not install or use the Software.
+
+The Software is not open source. It is a personal project of Neel Sapariya (the
+"Author"), who owns it and keeps all rights that this agreement does not
+expressly grant. If any source files or other materials are visible in a public
+repository, that visibility is for information only and grants no right beyond
+this agreement.
+
+
+1. GRANT OF LICENSE
+
+The Author grants you a limited, non-exclusive, non-transferable, revocable
+license to install the Software on computers that you own or control, and to
+use it for your own personal purposes, in accordance with this agreement.
+
+
+2. RESTRICTIONS
+
+Unless the Author gives you written permission, you may not:
+
+  a) copy, distribute, publish, upload, sell, rent, lease, lend or otherwise
+     make the Software, in whole or in part, available to any other person or
+     through any website, file-sharing service, software repository, bundle or
+     installer of your own;
+  b) modify, adapt or translate the Software, or create derivative works from
+     it;
+  c) reverse engineer, decompile or disassemble the Software, or attempt to
+     discover its source code, except to the extent that applicable law allows
+     this despite this restriction;
+  d) remove or alter any copyright, license or other proprietary notice in the
+     Software, its installer or its documentation;
+  e) sublicense the Software or transfer your rights under this agreement;
+  f) bypass or interfere with the Software's update signature verification, or
+     use the Software to distribute software or updates that the Author did
+     not publish.
+
+You may make one copy of the installer you received, for backup purposes only.
+
+
+3. LAWFUL USE OF DOWNLOADED CONTENT
+
+The Software downloads files and media from websites that you choose. You alone
+are responsible for what you download and for complying with the copyright laws
+that apply to you and with the terms of service of the websites you use. Use
+the Software only for content that you have the right to download and keep. The
+Software does not remove or circumvent digital rights management (DRM), and the
+Author does not encourage or accept responsibility for any infringement.
+
+
+4. OWNERSHIP
+
+The Software is licensed, not sold. The Author owns all copyright and other
+intellectual property rights in the Software, including its name, logo, code,
+design and documentation. This agreement gives you no right to use the name
+"Haste Downloader", "Haste DL" or "HDL", or the Author's name, other than to
+identify the Software.
+
+
+5. THIRD-PARTY COMPONENTS
+
+The Software includes the .NET 8 runtime (Microsoft Corporation and the .NET
+Foundation) and the Avalonia user interface library (the Avalonia project), both
+licensed under the MIT license, and the Archivo typeface, licensed under the SIL
+Open Font License. These components keep their own licenses and are not covered
+by this agreement. The Software uses the services of the websites you download
+from (for example, YouTube's player service for YouTube links); those services
+belong to their owners and are subject to their own terms.
+
+
+6. UPDATES AND PRIVACY
+
+The Software can check for and install updates. When an update feed is set up
+in your copy, the Software contacts that server to look for a newer version
+and installs an update only if its digital signature is valid. The Software
+does not collect, store or send personal information to the Author. Downloads,
+settings, the download list and diagnostic logs stay on your computer. Cookies
+that a website needs for a download are used only for that request and are not
+written to disk.
+
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY OR
+UNINTERRUPTED OR ERROR-FREE OPERATION. Websites change how they serve media
+without notice, so downloading from a particular site may stop working at any
+time. You use the Software at your own risk.
+
+
+8. LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR ANY LOSS
+OF DATA, FILES, PROFITS OR USE, ARISING OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THIS AGREEMENT, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES. THE AUTHOR'S TOTAL LIABILITY FOR ANY CLAIM RELATED
+TO THE SOFTWARE SHALL NOT EXCEED THE AMOUNT YOU PAID FOR IT, OR ZERO IF YOU PAID
+NOTHING.
+
+
+9. TERMINATION
+
+This agreement is effective until terminated. It ends automatically if you
+breach any of its terms. On termination you must stop using the Software and
+delete all copies of it. Sections 2, 3, 4, 7, 8 and 10 continue to apply after
+termination.
+
+
+10. GENERAL
+
+If any provision of this agreement is found unenforceable, the remaining
+provisions stay in effect. This agreement is the entire agreement between you
+and the Author about the Software and replaces any earlier understanding. The
+Author may release new versions of the Software under updated terms; the terms
+shown when you install a version apply to that version.
+
+
+CONTACT
+
+Neel Sapariya
+https://neelsapariya.in
+https://github.com/sapariyaneel
