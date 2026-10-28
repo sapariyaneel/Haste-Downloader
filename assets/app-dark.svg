@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 640" width="1100" height="640" role="img" aria-label="The Haste DL main window: combined download speed with a live graph, a link box, file-type filters and a list of downloads." font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="1099" height="639" rx="16" fill="#0D0E10" stroke="#FFFFFF1F"/>
+<g transform="translate(24 17) scale(0.34375)"><defs><linearGradient id="lg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#24272d"/><stop offset="1" stop-color="#0d0e10"/></linearGradient></defs><rect width="64" height="64" rx="15" fill="url(#lg)"/><g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.5"><path d="M20 11v8" stroke="#60cdff" stroke-opacity=".38"/><path d="M44 16v6" stroke="#60cdff" stroke-opacity=".6"/><path d="M32 12v26" stroke="#60cdff"/><path d="M20.5 27.5 32 39l11.5-11.5" stroke="#60cdff"/><path d="M19 50h26" stroke="#f2f3f5"/></g></g>
+<text x="54" y="33" font-size="15" font-weight="600" fill="#F2F3F5" text-anchor="start" >Haste DL</text>
+<rect x="318" y="14" width="464" height="30" rx="15" fill="#FFFFFF1A" stroke="#26282D"/>
+<rect x="322" y="18" width="68" height="22" rx="11" fill="#1B1D21"/>
+<text x="336" y="33" font-size="12" font-weight="500" fill="#F2F3F5" text-anchor="start" >All</text>
+<text x="361.8" y="33" font-size="11" font-weight="400" fill="#8A8D96" text-anchor="start" >4</text>
+<text x="405.8" y="33" font-size="12" font-weight="500" fill="#8A8D96" text-anchor="start" >Downloading</text>
+<text x="484.4" y="33" font-size="11" font-weight="400" fill="#8A8D96" text-anchor="start" >2</text>
+<text x="528.4" y="33" font-size="12" font-weight="500" fill="#8A8D96" text-anchor="start" >Unfinished</text>
+<text x="600.4" y="33" font-size="11" font-weight="400" fill="#8A8D96" text-anchor="start" >3</text>
+<text x="644.4" y="33" font-size="12" font-weight="500" fill="#8A8D96" text-anchor="start" >Completed</text>
+<text x="709.8" y="33" font-size="11" font-weight="400" fill="#8A8D96" text-anchor="start" >1</text>
+<circle cx="812" cy="29" r="5.5" fill="none" stroke="#B4B7BF" stroke-width="1.5"/><path d="M812 26v3.5l2 1.5" fill="none" stroke="#B4B7BF" stroke-width="1.3"/>
+<text x="826" y="33" font-size="12" font-weight="400" fill="#B4B7BF" text-anchor="start" >Queue starts 02:00</text>
+<path d="M953 22l-5 8h4l-1 6 5-8h-4z" fill="#60CDFF"/>
+<text x="966" y="33" font-size="12" font-weight="400" fill="#B4B7BF" text-anchor="start" >Booster on</text>
+<path d="M1052 29h10" stroke="#8A8D96" stroke-width="1.4"/><rect x="1068" y="24" width="9" height="9" fill="none" stroke="#8A8D96" stroke-width="1.3"/><path d="M1086 24l9 9M1095 24l-9 9" stroke="#8A8D96" stroke-width="1.4"/>
+<text x="32" y="92" font-size="11" font-weight="600" fill="#8A8D96" text-anchor="start" >Combined speed</text>
+<text x="30" y="150" font-size="62" font-weight="600" fill="#F2F3F5" text-anchor="start" letter-spacing="-3">59.1</text>
+<text x="168" y="148" font-size="14" font-weight="500" fill="#8A8D96" text-anchor="start" >MB/s</text>
+<text x="32" y="176" font-size="12" font-weight="400" fill="#8A8D96" text-anchor="start" >2 downloading · 4 in the list · Wi-Fi 31.3 MB/s · Ethernet 27.8 MB/s</text>
+<path d="M560,176 L560.0,122.4 L572.5,116.7 L585.0,116.0 L597.5,117.7 L610.0,118.0 L622.5,114.8 L635.0,109.7 L647.5,106.5 L660.0,108.5 L672.5,116.4 L685.0,126.3 L697.5,133.7 L710.0,135.9 L722.5,134.1 L735.0,131.8 L747.5,132.3 L760.0,135.8 L772.5,139.5 L785.0,139.3 L797.5,133.4 L810.0,123.8 L822.5,114.7 L835.0,110.1 L847.5,110.7 L860.0,113.6 L872.5,115.2 L885.0,113.3 L897.5,109.7 L910.0,108.0 L922.5,111.5 L935.0,120.0 L947.5,129.9 L960.0,136.8 L972.5,138.2 L985.0,135.5 L997.5,132.5 L1010.0,132.2 L1022.5,135.0 L1035.0,137.7 L1047.5,136.5 L1060.0,130.0 L1060,176 Z" fill="#60CDFF" fill-opacity=".13"/>
+<path d="M560.0,122.4 L572.5,116.7 L585.0,116.0 L597.5,117.7 L610.0,118.0 L622.5,114.8 L635.0,109.7 L647.5,106.5 L660.0,108.5 L672.5,116.4 L685.0,126.3 L697.5,133.7 L710.0,135.9 L722.5,134.1 L735.0,131.8 L747.5,132.3 L760.0,135.8 L772.5,139.5 L785.0,139.3 L797.5,133.4 L810.0,123.8 L822.5,114.7 L835.0,110.1 L847.5,110.7 L860.0,113.6 L872.5,115.2 L885.0,113.3 L897.5,109.7 L910.0,108.0 L922.5,111.5 L935.0,120.0 L947.5,129.9 L960.0,136.8 L972.5,138.2 L985.0,135.5 L997.5,132.5 L1010.0,132.2 L1022.5,135.0 L1035.0,137.7 L1047.5,136.5 L1060.0,130.0" fill="none" stroke="#60CDFF" stroke-width="1.6" stroke-linejoin="round"/>
+<rect x="32" y="200" width="1036" height="48" rx="24" fill="#14161A" stroke="#26282D"/>
+<path d="M58 224h-4a4 4 0 0 1 0-8h4M70 216h4a4 4 0 0 1 0 8h-4M58 220h12" fill="none" stroke="#8A8D96" stroke-width="1.5" stroke-linecap="round" transform="translate(2 0)"/>
+<text x="94" y="229" font-size="13" font-weight="400" fill="#8A8D96" text-anchor="start" >Paste a file, video or page link</text>
+<rect x="946" y="205" width="116" height="38" rx="19" fill="#60CDFF"/>
+<path d="M968 224h10M973 219v10" stroke="#06141C" stroke-width="1.8" stroke-linecap="round"/>
+<text x="988" y="229" font-size="13" font-weight="600" fill="#06141C" text-anchor="start" >Add link</text>
+<rect x="32" y="266" width="89" height="30" rx="15" fill="#FFFFFF1A"/>
+<text x="46" y="285" font-size="12" font-weight="400" fill="#F2F3F5" text-anchor="start" >All types</text>
+<rect x="129.7" y="266.5" width="76" height="29" rx="14.5" fill="none" stroke="#26282D"/>
+<circle cx="145.2" cy="281" r="3" fill="#60CDFF"/>
+<text x="155.2" y="285" font-size="12" font-weight="400" fill="#B4B7BF" text-anchor="start" >Video</text>
+<rect x="213.7" y="266.5" width="76" height="29" rx="14.5" fill="none" stroke="#26282D"/>
+<circle cx="229.2" cy="281" r="3" fill="#FFB454"/>
+<text x="239.2" y="285" font-size="12" font-weight="400" fill="#B4B7BF" text-anchor="start" >Music</text>
+<rect x="297.7" y="266.5" width="110" height="29" rx="14.5" fill="none" stroke="#26282D"/>
+<circle cx="313.2" cy="281" r="3" fill="#FF8F6B"/>
+<text x="323.2" y="285" font-size="12" font-weight="400" fill="#B4B7BF" text-anchor="start" >Compressed</text>
+<rect x="415.7" y="266.5" width="103" height="29" rx="14.5" fill="none" stroke="#26282D"/>
+<circle cx="431.2" cy="281" r="3" fill="#4FD1B5"/>
+<text x="441.2" y="285" font-size="12" font-weight="400" fill="#B4B7BF" text-anchor="start" >Documents</text>
+<rect x="32.5" y="312.5" width="1035" height="296" rx="18" fill="#1B1D21" stroke="#26282D"/>
+<circle cx="76" cy="350" r="21" fill="none" stroke="#2A2D33" stroke-width="3"/>
+<circle cx="76" cy="350" r="21" fill="none" stroke="#60CDFF" stroke-width="3" stroke-linecap="round" stroke-dasharray="81.8 131.9" transform="rotate(-90 76 350)"/>
+<circle cx="76" cy="350" r="16" fill="#60CDFF" fill-opacity="0.18"/>
+<text x="76" y="353.5" font-size="9" font-weight="600" fill="#60CDFF" text-anchor="middle" >MP4</text>
+<text x="112" y="344" font-size="13" font-weight="600" fill="#F2F3F5" text-anchor="start" >expedition-footage-2160p.mp4</text>
+<text x="112" y="362" font-size="11" font-weight="400" fill="#8A8D96" text-anchor="start" >255 MB of 412 MB</text>
+<rect x="112" y="371" width="560" height="4" rx="2" fill="#2A2D33"/>
+<rect x="112" y="371" width="347" height="4" rx="2" fill="#60CDFF"/>
+<text x="900" y="346" font-size="13" font-weight="600" fill="#F2F3F5" text-anchor="end" >38.1 MB/s</text>
+<text x="900" y="363" font-size="11" font-weight="400" fill="#8A8D96" text-anchor="end" >4s left</text>
+<text x="960" y="356" font-size="17" font-weight="600" fill="#F2F3F5" text-anchor="end" >62%</text>
+<path d="M1017 343v14M1025 343v14" stroke="#8A8D96" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M33 387H1067" stroke="#26282D"/>
+<circle cx="76" cy="424" r="21" fill="none" stroke="#2A2D33" stroke-width="3"/>
+<circle cx="76" cy="424" r="21" fill="none" stroke="#60CDFF" stroke-width="3" stroke-linecap="round" stroke-dasharray="54.1 131.9" transform="rotate(-90 76 424)"/>
+<circle cx="76" cy="424" r="16" fill="#FF8F6B" fill-opacity="0.18"/>
+<text x="76" y="427.5" font-size="9" font-weight="600" fill="#FF8F6B" text-anchor="middle" >ZIP</text>
+<text x="112" y="418" font-size="13" font-weight="600" fill="#F2F3F5" text-anchor="start" >design-assets-v3.zip</text>
+<text x="112" y="436" font-size="11" font-weight="400" fill="#8A8D96" text-anchor="start" >76 MB of 186 MB</text>
+<rect x="112" y="445" width="560" height="4" rx="2" fill="#2A2D33"/>
+<rect x="112" y="445" width="230" height="4" rx="2" fill="#60CDFF"/>
+<text x="900" y="420" font-size="13" font-weight="600" fill="#F2F3F5" text-anchor="end" >21.0 MB/s</text>
+<text x="900" y="437" font-size="11" font-weight="400" fill="#8A8D96" text-anchor="end" >5s left</text>
+<text x="960" y="430" font-size="17" font-weight="600" fill="#F2F3F5" text-anchor="end" >41%</text>
+<path d="M1017 417v14M1025 417v14" stroke="#8A8D96" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M33 461H1067" stroke="#26282D"/>
+<circle cx="76" cy="498" r="21" fill="none" stroke="#2A2D33" stroke-width="3"/>
+<circle cx="76" cy="498" r="16" fill="#FF8F6B" fill-opacity="0.18"/>
+<text x="76" y="501.5" font-size="9" font-weight="600" fill="#FF8F6B" text-anchor="middle" >ISO</text>
+<text x="112" y="492" font-size="13" font-weight="600" fill="#F2F3F5" text-anchor="start" >ubuntu-26.04-desktop-amd64.iso</text>
+<text x="112" y="510" font-size="11" font-weight="400" fill="#8A8D96" text-anchor="start" >Queued  ·  1st in line  ·  6.1 GB</text>
+<text x="960" y="504" font-size="17" font-weight="600" fill="#F2F3F5" text-anchor="end" >--</text>
+<path d="M1017 491l9 7-9 7z" fill="#8A8D96"/>
+<path d="M33 535H1067" stroke="#26282D"/>
+<circle cx="76" cy="572" r="16" fill="#FFB454" fill-opacity="0.18"/>
+<text x="76" y="575.5" font-size="9" font-weight="600" fill="#FFB454" text-anchor="middle" >MP3</text>
+<text x="112" y="566" font-size="13" font-weight="600" fill="#F2F3F5" text-anchor="start" >keynote-recording.mp3</text>
+<text x="112" y="584" font-size="11" font-weight="400" fill="#8A8D96" text-anchor="start" >Music  ·  58 MB  ·  took 0:09  ·  avg 6.4 MB/s</text>
+<circle cx="982" cy="572" r="7.5" fill="none" stroke="#6CCB5F" stroke-width="1.5"/><path d="M978.5 572l2.5 2.5 4.5-5" fill="none" stroke="#6CCB5F" stroke-width="1.6" stroke-linecap="round"/>
+<text x="996" y="576" font-size="12" font-weight="500" fill="#6CCB5F" text-anchor="start" >Complete</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" role="img" aria-label="Speed Booster spreads one download across Wi-Fi, Ethernet and a phone hotspot, each with its own speed limit." font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="759" height="299" rx="16" fill="#0D0E10" stroke="#FFFFFF1F"/>
+<text x="32" y="46" font-size="15" font-weight="600" fill="#F2F3F5" text-anchor="start" >Speed Booster</text>
+<text x="32" y="66" font-size="12" font-weight="400" fill="#8A8D96" text-anchor="start" >One download, three networks, 112 MB/s combined</text>
+<rect x="32.5" y="100.5" width="695" height="50" rx="14" fill="#1B1D21" stroke="#26282D"/>
+<circle cx="62" cy="125" r="5" fill="#60CDFF"/>
+<text x="80" y="130" font-size="13" font-weight="600" fill="#F2F3F5" text-anchor="start" >Wi-Fi</text>
+<rect x="230" y="123" width="360" height="5" rx="2.5" fill="#2A2D33"/><rect x="230" y="123" width="223" height="5" rx="2.5" fill="#60CDFF"/>
+<text x="708" y="130" font-size="13" font-weight="600" fill="#F2F3F5" text-anchor="end" >42.0 MB/s</text>
+<rect x="32.5" y="162.5" width="695" height="50" rx="14" fill="#1B1D21" stroke="#26282D"/>
+<circle cx="62" cy="187" r="5" fill="#4FD1B5"/>
+<text x="80" y="192" font-size="13" font-weight="600" fill="#F2F3F5" text-anchor="start" >Ethernet</text>
+<rect x="230" y="185" width="360" height="5" rx="2.5" fill="#2A2D33"/><rect x="230" y="185" width="310" height="5" rx="2.5" fill="#4FD1B5"/>
+<text x="708" y="192" font-size="13" font-weight="600" fill="#F2F3F5" text-anchor="end" >58.5 MB/s</text>
+<rect x="32.5" y="224.5" width="695" height="50" rx="14" fill="#1B1D21" stroke="#26282D"/>
+<circle cx="62" cy="249" r="5" fill="#FFB454"/>
+<text x="80" y="254" font-size="13" font-weight="600" fill="#F2F3F5" text-anchor="start" >Phone hotspot</text>
+<rect x="230" y="247" width="360" height="5" rx="2.5" fill="#2A2D33"/><rect x="230" y="247" width="108" height="5" rx="2.5" fill="#FFB454"/>
+<text x="708" y="254" font-size="13" font-weight="600" fill="#F2F3F5" text-anchor="end" >11.6 MB/s</text>
+</svg>

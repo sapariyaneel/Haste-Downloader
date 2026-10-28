@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" role="img" aria-label="A Download button on a video player lists each available quality with its real size." font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1C2A3A"/><stop offset="1" stop-color="#0F1217"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="759" height="399" rx="16" fill="url(#sky)" stroke="#FFFFFF1F"/>
+<path d="M0 330 L170 240 L290 300 L430 200 L600 310 L760 250 V400 H0Z" fill="#0B0E12" fill-opacity=".7"/>
+<circle cx="620" cy="110" r="34" fill="#FFB454" fill-opacity=".85"/>
+<circle cx="380" cy="200" r="34" fill="#00000066"/><path d="M371 184l26 16-26 16z" fill="#F2F3F5"/>
+<rect x="24" y="360" width="712" height="4" rx="2" fill="#FFFFFF2E"/><rect x="24" y="360" width="270" height="4" rx="2" fill="#F2F3F5"/><circle cx="294" cy="362" r="6" fill="#F2F3F5"/>
+<rect x="24" y="24" width="112" height="40" rx="10" fill="#0D0E10" stroke="#FFFFFF26"/>
+<path d="M48 36v12m-5-5l5 5 5-5M43 53h10" fill="none" stroke="#60CDFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="62" y="49" font-size="14" font-weight="600" fill="#60CDFF" text-anchor="start" >Download</text>
+<rect x="24" y="72" width="280" height="176" rx="14" fill="#0D0E10" stroke="#FFFFFF26"/>
+<text x="46" y="102" font-size="14" font-weight="500" fill="#F2F3F5" text-anchor="start" >2160p</text>
+<text x="282" y="102" font-size="13" font-weight="400" fill="#8A8D96" text-anchor="end" >412 MB</text>
+<text x="46" y="134" font-size="14" font-weight="500" fill="#F2F3F5" text-anchor="start" >1440p</text>
+<text x="282" y="134" font-size="13" font-weight="400" fill="#8A8D96" text-anchor="end" >198 MB</text>
+<rect x="32" y="146" width="264" height="30" rx="8" fill="#60CDFF" fill-opacity=".18"/>
+<text x="46" y="166" font-size="14" font-weight="500" fill="#F2F3F5" text-anchor="start" >1080p</text>
+<text x="282" y="166" font-size="13" font-weight="400" fill="#8A8D96" text-anchor="end" >96 MB</text>
+<text x="46" y="198" font-size="14" font-weight="500" fill="#F2F3F5" text-anchor="start" >720p</text>
+<text x="282" y="198" font-size="13" font-weight="400" fill="#8A8D96" text-anchor="end" >48 MB</text>
+<text x="46" y="230" font-size="14" font-weight="500" fill="#F2F3F5" text-anchor="start" >Audio only</text>
+<text x="282" y="230" font-size="13" font-weight="400" fill="#FFB454" text-anchor="end" >6 MB</text>
+<rect x="440" y="276" width="296" height="64" rx="14" fill="#F5F5F7"/>
+<text x="458" y="303" font-size="14" font-weight="600" fill="#0B0B0D" text-anchor="start" >Added to Haste DL</text>
+<text x="458" y="321" font-size="12" font-weight="400" fill="#6A6A73" text-anchor="start" >1080p, 96 MB</text>
+<rect x="458" y="328" width="260" height="4" rx="2" fill="#E3E3E8"/><rect x="458" y="328" width="150" height="4" rx="2" fill="#005FB8"/>
+</svg>
